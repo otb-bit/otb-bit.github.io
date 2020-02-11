@@ -1,0 +1,129 @@
+h1{
+  color:dimgray;
+  font-size:10px;
+  margin-left:39px;
+  padding-top:30px;
+
+  }
+
+.menu-icon{
+  font-size:25px;
+  float: right;
+  padding-right: 20px;
+  margin-top: -30px;
+  color:#778899
+
+  }
+
+
+ul{
+  list-style: none;
+  text-align: left;
+  z-index:100;
+  position: relative;
+}
+.sakuhinn-contents{
+  padding-top:80px;
+　
+}
+.sakuhinn-child:hover{
+	opacity: 0.5;
+  -webkit-transition: all .10s;
+  transition: all .10s;
+}
+.sakuhinn-child {
+
+  width:400px;
+  height:auto;
+  box-shadow:2px 2px 4px -2px gray;
+  margin-right: 20px;
+  margin-bottom: 30px
+
+
+
+}
+.sakuhinn-text ul{
+  position: absolute;
+  color:darkgray;
+  font-size:13px;
+  font-weight:100;
+  font-family:sans-serif;
+  letter-spacing:5px;
+  margin-left: 450px;
+  margin-top: 100px;
+　font-family:"ＭＳ Ｐ明朝","ＭＳ 明朝",serif;
+  z-index:50;
+  text-align:left;
+
+}
+.sakuhinn-text li{
+  margin-bottom: 287px;
+}
+.sakuhinn-text1{
+position: absolute;
+font-size:10px;
+z-index:60;
+width:670px;
+top: 220px;
+}
+.sakuhinn-text2{
+position: absolute;
+font-size:10px;
+z-index:60;
+width:670px;
+top: 550px;
+}
+.sakuhinn-text3{
+position: absolute;
+font-size:10px;
+z-index:60;
+width:670px;
+top: 870px;
+}
+.sakuhinn-text4{
+position: absolute;
+font-size:10px;
+z-index:60;
+width:670px;
+top:1190px;
+left: 40px;
+}
+
+.fedder{
+  float:right;
+  padding-top:15px;
+  padding-right: 30px;
+}
+
+.category-box2 a{
+  color:darkgray;
+  text-decoration:none;
+  float: left;
+  margin-left: 30px;
+  font-size: 10px;
+}
+
+.category-box2{
+display: flex;
+}
+.sakuhinn-text-h2{
+  position: absolute;
+  z-index:50;
+  top:330px;
+}
+.sakuhinn-text-h3{
+  position: absolute;
+  z-index:50;
+  top:650px;
+}
+.sakuhinn-text-h4{
+  position: absolute;
+  z-index:50;
+  top:980px;
+}
+
+
+
+
+
+}
