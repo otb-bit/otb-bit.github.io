@@ -1,0 +1,158 @@
+.fedder{
+ position:fixed;
+ z-index: 100;
+ top:0;
+ background-color: white;
+ opacity: 0.5;
+ width: 1440px;
+ height: 60px;
+ left:0;
+ right: 0;
+
+}
+ul{
+ list-style: none;
+ text-align: left;
+ z-index:100;
+ position: relative;
+}
+.category-box2{
+  position: absolute;
+  left: 975px;
+  padding-top:15px;
+  padding-right: 30px;
+  position:fixed;
+
+}
+
+.category-box2 a{
+  color:gray;
+  text-decoration:none;
+  float: left;
+  margin-left: 30px;
+  font-size: 10px;
+}
+
+.category-box2{
+display: flex;
+}
+
+.under-wrapper img{
+  position:fixed;
+  width:1440px;
+  top:70px;
+  left: 0;
+  right: 0;
+}
+
+.contents-wrapper img{
+ position:absolute;
+ z-index: 50;
+ top:860px;
+ width:1200px;
+ left: 95px;
+ height: auto;
+
+}
+
+
+.whitesmoke-space{
+  position: absolute;
+  z-index: 40;
+  top: 692px;
+  width:1440px;
+  height: 1000px;
+  background-color:whitesmoke;
+  left: 0;
+  right: 0;
+}
+.white-space{
+    position: absolute;
+    z-index: 50;
+    top: 1692px;
+    width:1440px;
+    height:4300px;
+    background-color:white;
+    left: 0;
+    right: 0;
+
+}
+.contents-wrapper2{
+  position: absolute;
+  z-index: 60;
+  top: 1440px;
+  width:1440px;
+  left: 0;
+  right: 0;
+}
+.mum3{
+  position: absolute;
+  z-index: 70;
+  top:400px;
+  width:1400px;
+  left: 0px;
+  height: auto;
+  opacity: 0;
+   transform : translate(0, 50px);
+   transition : all 300ms;
+ }
+ .isAnimate2 {
+ opacity: 1;
+ transform : translate(0, 0);
+
+}
+.mum4{
+  position: absolute;
+  z-index: 70;
+  top: 1550px;
+  width:1400px;
+  left: 0px;
+  height: auto;
+  opacity: 0;
+   transform : translate(0, 50px);
+   transition : all 300ms;
+ }
+ .isAnimate2 {
+ opacity: 1;
+ transform : translate(0, 0);
+
+}
+.mum5{
+  position: absolute;
+  z-index: 70;
+  top: 2750px;
+  width:1440px;
+  left: 0px;
+  height: auto;
+  opacity: 0;
+   transform : translate(0, 50px);
+   transition : all 300ms;
+ }
+ .isAnimate2 {
+ opacity: 1;
+ transform : translate(0, 0);
+   
+}
+
+.white-space4{
+  position: absolute;
+  z-index: 70;
+  top: 5450px;
+  width:1500px;
+
+}
+.white-space5{
+    position: absolute;
+    z-index: 70;
+    top: 5650px;
+    width:1500px;
+}
+h4{
+  position: absolute;
+  z-index: 80;
+  color:black;
+  font-size:10px;
+ left: 665px;
+  top:5540px;
+  color:darkgray;
+}
