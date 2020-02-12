@@ -1,0 +1,60 @@
+h1{
+  color:dimgray;
+  font-size:10px;
+  margin-left:39px;
+  padding-top:30px;
+　
+  }
+
+.menu-icon{
+  font-size:25px;
+  float: right;
+  padding-right: 20px;
+  margin-top: -30px;
+  color:#778899
+
+  }
+
+
+ul{
+  list-style: none;
+  text-align: left;
+  z-index:100;
+  position: relative;
+}
+.fedder{
+  float:right;
+  padding-top:15px;
+  padding-right: 30px;
+}
+.category-box2 a{
+  color:darkgray;
+  text-decoration:none;
+  float: left;
+  margin-left: 30px;
+  font-size: 10px;
+}
+
+.category-box2{
+display: flex;
+}
+
+.mailLink{
+  position: absolute;
+  z-index:50;
+  top:150px;
+  left:60px;
+font-size:14px;
+font-family:sans-serif;
+color:dimgray;
+
+}
+a{
+  text-decoration:none;
+  color: black
+}
+a:hover{
+	opacity: 0.5;
+  -webkit-transition: all .10s;
+  transition: all .10s;
+}
